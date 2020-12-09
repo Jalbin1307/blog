@@ -1,16 +1,16 @@
-title:              Jinwoo Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              Jalbin Blog
+email:              wlsdn13077@naver.com
+description:        DevBlog
+author:             Jalbin
 baseurl:            "/jalbin1307.github.io"
 url:                "https://jalbin1307.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
+#twitter_username:   SBootstrap
+github_username:    Jalbin1307
+facebook_username:  홍진우
+instagram_username:  10._.gosu
+# linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
